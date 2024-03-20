@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grow Framework
-parent: index
+parent: Playbooks
 nav_order: 2
 ---
 
