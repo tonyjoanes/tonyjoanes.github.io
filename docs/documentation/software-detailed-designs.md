@@ -2,7 +2,6 @@
 layout: page
 title: Software Detailed Design
 parent: Documentation
-nav_order: 1
 ---
 
 ## Software Detailed Design
